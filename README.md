@@ -1,6 +1,6 @@
 <!-- Banner -->
 <h1 align="center">✨ Hola, soy Romina ✨</h1>
-<h3 align="center">💻 Full Stack Student | 📊 Data Enthusiast | 🎨 Creative Dev</h3>
+<h3 align="center">💻 Full Stack Student | 🛠️Building experience and practice</h3>
 
 ---
 

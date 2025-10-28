@@ -20,11 +20,9 @@
 
 ### 🚀 Sobre mí
 - 🌱 Actualmente estudiando **Full Stack Development (UTN)**
-- 🔐 Explorando el mundo de la **Ciberseguridad**
-- 📊 Me encanta trabajar con **datos y analítica**
-- 🎨 Creativa por naturaleza, con background en **estética**
 
----
+
+
 
 ### 🛠️ Tecnologías & Herramientas
 <p>

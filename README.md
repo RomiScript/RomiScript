@@ -1,6 +1,6 @@
 <!-- Banner -->
 <h1 align="center">✨ Hola, soy Romina ✨</h1>
-<h3 align="center">💻 Full Stack Student | 💸Sales and SDR passionate | I love building things for the web</h3>
+<h3 align="center">💻 I know hot to code! </h3>
 
 ---
 

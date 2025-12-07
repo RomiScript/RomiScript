@@ -19,7 +19,8 @@
 ---
 
 ### 🚀 Sobre mí
-- 🌱 Actualmente estudiando **Full Stack Development (UTN)**
+-  Hice la diplomatura de **Full Stack Development (UTN)**
+-  Me gusta el Front pero también amo Node.js
 
 
 
@@ -50,3 +51,4 @@
 ---
 
 ⭐️ From [RomiScript](https://github.com/RomiScript)
+📧 romiina.martinez496@gmail.com
